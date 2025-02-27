@@ -1,0 +1,14 @@
+[
+    {
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "year": 2024,
+        "image": "car1.avif"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "year": 2024,
+        "image": "car1.jpg"
+    }
+]
